@@ -1,9 +1,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/faixa-escura.png">
-  <img alt="Pedro Moura Araujo · Product Owner · APIs & Integrations · Applied AI" src="assets/faixa-clara.png">
+  <img alt="Pedro Moura Araujo · Product Manager · Product Owner" src="assets/faixa-clara.png">
 </picture>
 
-Product Owner with 5 years bridging business and technology, focused on APIs and integrations. In 2026 I led product on generative AI initiatives, from discovery and PRD to tested code.
+Product Manager and Product Owner with 5 years bridging business and technology, focused on APIs and integrations. In 2026 I led product on generative AI initiatives, from discovery and PRD to tested code.
 
 > [!TIP]
 > Open to product roles (Product Owner, Product Manager, Product Analyst), remote or on-site in Rio de Janeiro. Reach me on [LinkedIn](https://www.linkedin.com/in/pedroigormoura/).
@@ -46,7 +46,7 @@ Example: a client urgently asked for an "email inbox". The real need was trackin
 
 <br>
 
-Product Owner com 5 anos na ponte entre negócio e tecnologia, com foco em APIs e integrações. Em 2026 liderei produto em iniciativas com IA generativa, da discovery e do PRD ao código testado.
+Product Manager e Product Owner com 5 anos na ponte entre negócio e tecnologia, com foco em APIs e integrações. Em 2026 liderei produto em iniciativas com IA generativa, da discovery e do PRD ao código testado.
 
 **Aberto a posições de Produto** (Product Owner, Product Manager, Analista de Produto), remoto ou presencial no Rio de Janeiro. Fale comigo no [LinkedIn](https://www.linkedin.com/in/pedroigormoura/).
 
