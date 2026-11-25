@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/faixa-escura.png">
-  <img alt="Pedro Moura Araujo · Product Manager · Product Owner" src="assets/faixa-clara.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img alt="Pedro Moura Araujo · Product Manager · Product Owner" src="assets/banner-light.png">
 </picture>
 
 Product Manager and Product Owner with 5 years bridging business and technology, focused on APIs and integrations. In 2026 I led product on generative AI initiatives, from discovery and PRD to tested code.
